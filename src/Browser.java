@@ -6,6 +6,14 @@ public class Browser {
       
     // System Property for Chrome Driver   
         System.setProperty("webdriver.chrome.driver","C:\\Users\\GulshanKumar\\eclipse-workspace\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","C:\\Users\\GulshanKumar\\eclipse-workspace\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","C:\\Users\\GulshanKumar\\eclipse-workspace\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","C:\\Users\\GulshanKumar\\eclipse-workspace\\chromedriver.exe");
+        
+        System.setProperty("webdriver.chrome.driver","C:\\Users\\GulshanKumar\\eclipse-workspace\\chromedriver.exe"); System.setProperty("webdriver.chrome.driver","C:\\Users\\GulshanKumar\\eclipse-workspace\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","C:\\Users\\GulshanKumar\\eclipse-workspace\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","C:\\Users\\GulshanKumar\\eclipse-workspace\\chromedriver.exe");
+        
         
     } 
 }
